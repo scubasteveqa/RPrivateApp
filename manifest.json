@@ -632,7 +632,7 @@
       }
     },
     "myPrivatePackage": {
-      "Source": "Git",
+      "Source": "github",
       "Repository": null,
       "description": {
         "Package": "myPrivatePackage",
@@ -644,7 +644,7 @@
         "Encoding": "UTF-8",
         "Roxygen": "list(markdown = TRUE)",
         "RoxygenNote": "7.1.1",
-        "RemoteType": "git2r",
+        "RemoteType": "github",
         "RemoteUrl": "https://github.com/scubasteveqa/PrivatePackage.git",
         "RemoteSha": "6f3739599009d2dc5cb60bf3cf0edc90062b8845",
         "NeedsCompilation": "no",
